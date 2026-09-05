@@ -20,7 +20,7 @@
 Independent Security Researcher and Systems Architect specialized in **Web Application Penetration Testing (VAPT)**, **API Security Audits**, **Capture The Flag (CTF - Cryptography, Binary & Forensics)**, and **Decentralized Multi-Agent Swarm Engineering**.
 
 - 🔭 **Primary Focus:** High-impact Web & API Vulnerability Assessment, Smart Contract Auditing, and SMT/SAT Cryptanalysis.
-| 🔱 **Hermes Swarm (7DeadlySins)**  |    | Autonomous P2P multi-agent orchestrator inspired by OpenAI–METR swarm reports. Features blackboard state, permadeath protocols, and real-time C2 HUD. |
+- ⚡ **Autonomous Swarm Research:** Architecting token-exhaustion resilient AI multi-agent swarms with decentralized blackboard state and real-time C2 telemetry.
 - 🛡️ **Methodologies:** OWASP Top 10, Zero-Knowledge verification, Z3 SMT algebraic reduction, Franklin-Reiter attacks, and automated security pipelines.
 
 ---
@@ -29,7 +29,7 @@ Independent Security Researcher and Systems Architect specialized in **Web Appli
 
 | Repository | Focus Area | Description |
 | :--- | :--- | :--- |
-| 🔱 **Hermes Swarm (7DeadlySins)**  |    | Autonomous P2P multi-agent orchestrator inspired by OpenAI–METR swarm reports. Features blackboard state, permadeath protocols, and real-time C2 HUD. |
+| 🔱 **Hermes Swarm (7DeadlySins)** `[PRIVATE LAB]` | `AI Swarm` `C2 HUD` `CTF Solver` | Autonomous P2P multi-agent orchestrator inspired by OpenAI–METR swarm reports. Features blackboard state, permadeath/succession protocols, and a real-time C2 dashboard. |
 | 🎯 **[ctf-ai-tools](https://github.com/calvin-aprilian/ctf-ai-tools)** | `Security` `Automation` `CTF` | AI-assisted CTF solver suite with 11 specialized tools, automated payload generators, and flag verification frameworks for pwn, crypto, and forensics. |
 | 🔍 **[python-tools](https://github.com/calvin-aprilian/python-tools)** | `VAPT` `API Security` | Automated API vulnerability scanner and misconfiguration detector targeting exposed endpoints, broken object level authorization (BOLA), and JWT tampering. |
 | ⚡ **[ai-gateway-platform](https://github.com/calvin-aprilian/ai-gateway-platform)** | `Next.js` `E-Commerce` `Security` | Fullstack Next.js commerce gateway for high-concurrency AI APIs with rate limiting, secure key hashing, and automated webhooks. |
