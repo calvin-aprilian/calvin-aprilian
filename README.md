@@ -3,53 +3,61 @@
 # Moch. Calvin Aprilian
 ### **Security Researcher & Autonomous AI Systems Architect**
 
-
+```text
+[ POLIJE // TRK ] -- [ CYBER SECURITY & VAPT ] -- [ AUTONOMOUS SWARMS ]
+```
 
 [![GitHub Followers](https://img.shields.io/github/followers/calvin-aprilian?label=Followers&style=for-the-badge&color=0000f2)](https://github.com/calvin-aprilian)
 [![Profile Views](https://komarev.com/ghpvc/?username=calvin-aprilian&style=for-the-badge&color=0000f2)](https://github.com/calvin-aprilian)
-[![LinkedIn](https://img.shields.io/badge/Connect-Polije%20TRK-blue?style=for-the-badge&logo=linkedin)](https://github.com/calvin-aprilian)
-[![Email](https://img.shields.io/badge/Contact-Email-informational?style=for-the-badge&logo=gmail)](mailto:calvin.aprilian280406@gmail.com)
+[![Email](https://img.shields.io/badge/Email-calvin.aprilian280406%40gmail.com-0000f2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calvin.aprilian280406@gmail.com)
+[![Polije](https://img.shields.io/badge/Polije-TRK%20Student-blue?style=for-the-badge)](https://polije.ac.id)
 
 ---
 
 </div>
 
-## 📌 About Me
+## 📌 Executive Summary
 
-Independent Security Researcher and Computer Engineering Technology student at **State Polytechnic of Jember (Polije)**. Specialized in **API Penetration Testing**, **Vulnerability Assessment (VAPT)**, **Capture The Flag (CTF - Cryptography & Binary Exploitation)**, and designing **Decentralized Autonomous Multi-Agent Swarms**.
+Independent Security Researcher and Computer Engineering Technology student at **State Polytechnic of Jember (Polije)**. Specialized in **Web Application Penetration Testing (VAPT)**, **API Security Audit**, **Capture The Flag (CTF - Cryptography, Binary & Forensics)**, and **Decentralized Multi-Agent Swarm Engineering**.
 
-* 🔭 **Primary Focus:** Web Application Pentesting, Smart Contract Security, and Cryptanalysis.
-* ⚡ **Autonomous Systems:** Architecting token-exhaustion resilient AI multi-agent swarms ([Hermes 7DeadlySins](https://github.com/calvin-aprilian/hermes-swarm)).
-* 🛡️ **Methodologies:** OWASP Top 10, Zero-Knowledge proofs, Z3 SMT algebraic reduction, Franklin-Reiter attacks, and CI/CD security gating.
-* 🎓 **Education:** B.A.Sc in Computer Engineering Technology (*Teknologi Rekayasa Komputer*), State Polytechnic of Jember (2025 – Present).
+- 🔭 **Primary Focus:** High-impact Web & API Vulnerability Assessment, Smart Contract Auditing, and SMT/SAT Cryptanalysis.
+- ⚡ **Autonomous Swarm Research:** Architecting token-exhaustion resilient AI multi-agent swarms with decentralized blackboard state ([Hermes 7DeadlySins](https://github.com/calvin-aprilian/hermes-swarm)).
+- 🛡️ **Methodologies:** OWASP Top 10, Zero-Knowledge verification, Z3 SMT algebraic reduction, Franklin-Reiter attacks, and CI/CD security gating.
+- 🎓 **Education:** B.A.Sc in Computer Engineering Technology (*Teknologi Rekayasa Komputer*), State Polytechnic of Jember (2025 – Present).
 
 ---
 
-## ⚡ Featured Projects
+## ⚡ Featured Engineering & Security Repositories
 
 | Repository | Focus Area | Description |
 | :--- | :--- | :--- |
-| 🔱 **[hermes-swarm](https://github.com/calvin-aprilian/hermes-swarm)** |    | Autonomous P2P multi-agent orchestrator inspired by OpenAI–METR swarm reports. Features blackboard state, permadeath/succession protocols, and a real-time C2 dashboard. |
-| 🎯 **[ctf-ai-tools](https://github.com/calvin-aprilian/ctf-ai-tools)** |   | AI-assisted CTF solver suite with 11 specialized security tools, automated payload engines, and flag framework for pwn, crypto, and forensics. |
-| 🔍 **[python-tools](https://github.com/calvin-aprilian/python-tools)** |   | Automated API vulnerability scanner and misconfiguration detector targeting exposed endpoints and broken authorization schemes. |
-| ⚡ **[ai-gateway-platform](https://github.com/calvin-aprilian/ai-gateway-platform)** |    | Fullstack Next.js commerce gateway for high-concurrency AI APIs with rate limiting, secure key hashing, and automated webhooks. |
-| 📊 **[memecoin-paper-bot](https://github.com/calvin-aprilian/memecoin-paper-bot)** |   | Deterministic telemetry collection, pool liquidity tracking, and low-latency algorithmic paper-trading on Solana. |
-| 🔬 **[ctf-forensics](https://github.com/calvin-aprilian/ctf-forensics)** |   | Disk forensics tools for ext4 partition analysis, steganography payload extraction, and PCAP stream reconstruction. |
+| 🔱 **[hermes-swarm](https://github.com/calvin-aprilian/hermes-swarm)** | `AI Swarm` `C2 HUD` `CTF Solver` | Autonomous P2P multi-agent orchestrator inspired by OpenAI–METR swarm reports. Features blackboard state, permadeath/succession protocols, and a real-time C2 dashboard at `localhost:7788`. |
+| 🎯 **[ctf-ai-tools](https://github.com/calvin-aprilian/ctf-ai-tools)** | `Security` `Automation` `CTF` | AI-assisted CTF solver suite with 11 specialized tools, automated payload generators, and flag verification frameworks for pwn, crypto, and forensics. |
+| 🔍 **[python-tools](https://github.com/calvin-aprilian/python-tools)** | `VAPT` `API Security` | Automated API vulnerability scanner and misconfiguration detector targeting exposed endpoints, broken object level authorization (BOLA), and JWT tampering. |
+| ⚡ **[ai-gateway-platform](https://github.com/calvin-aprilian/ai-gateway-platform)** | `Next.js` `E-Commerce` `Security` | Fullstack Next.js commerce gateway for high-concurrency AI APIs with rate limiting, secure key hashing, and automated webhooks. |
+| 📊 **[memecoin-paper-bot](https://github.com/calvin-aprilian/memecoin-paper-bot)** | `Quantitative` `Solana DEX` | Deterministic telemetry collection, pool liquidity tracking, and low-latency algorithmic paper-trading on Solana DEXs. |
+| 🔬 **[ctf-forensics](https://github.com/calvin-aprilian/ctf-forensics)** | `Forensics` `Stego` | Disk forensics tools for ext4 partition analysis, steganography payload extraction, and PCAP network stream reconstruction. |
 
 ---
 
 ## 🛠️ Technical Weaponry
 
-
+```text
+[ Offensive Security ] Burp Suite Pro, Metasploit, Nmap, Nuclei, Wireshark, SQLMap, FFuf
+[ Reverse & Crypto   ] Z3 SMT Solver, Ghidra, Pwntools, SPN Inversion, Franklin-Reiter
+[ Languages & Core   ] Python 3.11+, TypeScript, JavaScript (Node.js), Bash, Solidity, PHP
+[ Frameworks & Web   ] Next.js, React, Tailwind CSS, FastAPI, SQLite, Docker, Git
+[ Systems & Infra    ] Linux (Arch/Debian/WSL2), Windows Internals, VirtualBox Automation
+```
 
 ---
 
 ## 🏆 Honors, Awards & Credentials
 
-* 🥇 **National Finalist** — *KMIPN 2026 (Cyber Security Category)*
-* 🎖️ **Certified AppSec Pentester (CAPen with Merit)** — *The SecOps Group* (Credential ID: Dec 2023)
-* ⚔️ **Capture The Flag Participant** — *Healthkathon 2025*
-* 📜 **Intensive Cyber Security Bootcamp Graduate** — *Advanced VAPT & Threat Modeling*
+- 🥇 **National Finalist** — *KMIPN 2026 (Cyber Security Category)*
+- 🎖️ **Certified AppSec Pentester (CAPen with Merit)** — *The SecOps Group* (Credential ID: Dec 2023)
+- ⚔️ **Capture The Flag Participant** — *Healthkathon 2025*
+- 📜 **Intensive Cyber Security Bootcamp Graduate** — *Advanced VAPT & Threat Modeling*
 
 ---
 
@@ -57,8 +65,8 @@ Independent Security Researcher and Computer Engineering Technology student at *
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=calvin-aprilian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08090a&title_color=0000f2&icon_color=0000f2&text_color=ffffff" height="170" alt="Calvin's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-aprilian&layout=compact&theme=tokyonight&hide_border=true&bg_color=08090a&title_color=0000f2&text_color=ffffff" height="170" alt="Calvin's Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=calvin-aprilian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=08090a&title_color=0000f2&icon_color=0000f2&text_color=ffffff" height="165" alt="Calvin's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calvin-aprilian&layout=compact&theme=tokyonight&hide_border=true&bg_color=08090a&title_color=0000f2&text_color=ffffff" height="165" alt="Calvin's Top Languages" />
 
 </div>
 
@@ -69,7 +77,7 @@ Independent Security Researcher and Computer Engineering Technology student at *
 - **Email:** [calvin.aprilian280406@gmail.com](mailto:calvin.aprilian280406@gmail.com) / [e43252720@student.polije.ac.id](mailto:e43252720@student.polije.ac.id)
 - **GitHub:** [@calvin-aprilian](https://github.com/calvin-aprilian)
 - **Instagram:** [@calvin_aprilian](https://instagram.com/calvin_aprilian)
-- **Location:** Jember, East Java, Indonesia
+- **Institution:** State Polytechnic of Jember (Polije), East Java, Indonesia
 
 <div align="center">
 <sub>Designed with clean engineering discipline. Zero AI slop. <b>Think more, do less.</b></sub>
