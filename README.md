@@ -4,13 +4,12 @@
 ### **Security Researcher & Autonomous AI Systems Architect**
 
 ```text
-[ POLIJE // TRK ] -- [ CYBER SECURITY & VAPT ] -- [ AUTONOMOUS SWARMS ]
+[ INDEPENDENT RESEARCH ] -- [ CYBER SECURITY & VAPT ] -- [ AUTONOMOUS SWARMS ]
 ```
 
 [![GitHub Followers](https://img.shields.io/github/followers/calvin-aprilian?label=Followers&style=for-the-badge&color=0000f2)](https://github.com/calvin-aprilian)
 [![Profile Views](https://komarev.com/ghpvc/?username=calvin-aprilian&style=for-the-badge&color=0000f2)](https://github.com/calvin-aprilian)
 [![Email](https://img.shields.io/badge/Email-calvin.aprilian280406%40gmail.com-0000f2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:calvin.aprilian280406@gmail.com)
-[![Polije](https://img.shields.io/badge/Polije-TRK%20Student-blue?style=for-the-badge)](https://polije.ac.id)
 
 ---
 
@@ -18,12 +17,11 @@
 
 ## 📌 Executive Summary
 
-Independent Security Researcher and Computer Engineering Technology student at **State Polytechnic of Jember (Polije)**. Specialized in **Web Application Penetration Testing (VAPT)**, **API Security Audit**, **Capture The Flag (CTF - Cryptography, Binary & Forensics)**, and **Decentralized Multi-Agent Swarm Engineering**.
+Independent Security Researcher and Systems Architect specialized in **Web Application Penetration Testing (VAPT)**, **API Security Audits**, **Capture The Flag (CTF - Cryptography, Binary & Forensics)**, and **Decentralized Multi-Agent Swarm Engineering**.
 
 - 🔭 **Primary Focus:** High-impact Web & API Vulnerability Assessment, Smart Contract Auditing, and SMT/SAT Cryptanalysis.
 - ⚡ **Autonomous Swarm Research:** Architecting token-exhaustion resilient AI multi-agent swarms with decentralized blackboard state ([Hermes 7DeadlySins](https://github.com/calvin-aprilian/hermes-swarm)).
-- 🛡️ **Methodologies:** OWASP Top 10, Zero-Knowledge verification, Z3 SMT algebraic reduction, Franklin-Reiter attacks, and CI/CD security gating.
-- 🎓 **Education:** B.A.Sc in Computer Engineering Technology (*Teknologi Rekayasa Komputer*), State Polytechnic of Jember (2025 – Present).
+- 🛡️ **Methodologies:** OWASP Top 10, Zero-Knowledge verification, Z3 SMT algebraic reduction, Franklin-Reiter attacks, and automated security pipelines.
 
 ---
 
@@ -52,15 +50,6 @@ Independent Security Researcher and Computer Engineering Technology student at *
 
 ---
 
-## 🏆 Honors, Awards & Credentials
-
-- 🥇 **National Finalist** — *KMIPN 2026 (Cyber Security Category)*
-- 🎖️ **Certified AppSec Pentester (CAPen with Merit)** — *The SecOps Group* (Credential ID: Dec 2023)
-- ⚔️ **Capture The Flag Participant** — *Healthkathon 2025*
-- 📜 **Intensive Cyber Security Bootcamp Graduate** — *Advanced VAPT & Threat Modeling*
-
----
-
 ## 📈 GitHub Telemetry
 
 <div align="center">
@@ -74,10 +63,9 @@ Independent Security Researcher and Computer Engineering Technology student at *
 
 ## 📬 Connect & Collaborate
 
-- **Email:** [calvin.aprilian280406@gmail.com](mailto:calvin.aprilian280406@gmail.com) / [e43252720@student.polije.ac.id](mailto:e43252720@student.polije.ac.id)
+- **Email:** [calvin.aprilian280406@gmail.com](mailto:calvin.aprilian280406@gmail.com)
 - **GitHub:** [@calvin-aprilian](https://github.com/calvin-aprilian)
 - **Instagram:** [@calvin_aprilian](https://instagram.com/calvin_aprilian)
-- **Institution:** State Polytechnic of Jember (Polije), East Java, Indonesia
 
 <div align="center">
 <sub>Designed with clean engineering discipline. Zero AI slop. <b>Think more, do less.</b></sub>
